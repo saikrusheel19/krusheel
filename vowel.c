@@ -15,7 +15,7 @@ int main()
     }
     else
     {
-        printf("Invalid", ch);
+        printf("invalid", ch);
     }
 
     return 0;
