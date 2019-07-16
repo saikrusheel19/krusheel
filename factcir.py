@@ -6,4 +6,4 @@ if(num%2 == 0):
         fact = fact * i 
     print (fact)
 else:
-    print('invalid')
+    print(num)
