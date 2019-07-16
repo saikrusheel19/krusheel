@@ -5,4 +5,4 @@ for j in range(k):
        a,b=map(int,input().split())
        m.append(sum(n[a-1:b]))
 for a in m:
-       print(j)
+       print(a)
