@@ -3,7 +3,6 @@ n=list(map(int,input().split()))
 m=[]
 for a in range(b):
        j,k=map(int,input().split())
-       g=sum(n[j-1:k])
-       m.append(g)
+       m.append(sum(n[j-1:k]))
 for j in m:
        print(j)
